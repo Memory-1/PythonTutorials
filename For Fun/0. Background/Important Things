@@ -1,0 +1,60 @@
+dot accessing:
+
+    If you have some object (A string, list, etc...) you can call functions that will modify what called it.
+    For example:
+        list_object.append(item)
+
+        * list_object - The object which is calling the function
+        * .append() - The function which will modify list_object
+        * item - the parameter for the .append method
+
+
+    Some objects will have variables stored in them, others will have functions that they can do.
+    You can access these private variables by using .
+
+    For example:
+        Say we have a person object. we could access the private variable "name" by doing
+        person.name and that will return the name stored in person
+        We could call a private method yawn()
+        so person.yawn() will cause the person to yawn.
+
+classes:
+    A class is a representation of some object. You could think of any object and think of what can be used
+    to describe it. For example,
+
+        A car has:
+            model
+            make
+            color
+            radio stations
+            owner
+            miles
+            etc...
+
+    These are useful when you need to make your own representation of something for your project
+
+Libraries:
+    Python is great! Many other people have contributed to it and have made their own collection of code and published
+    it! That means you don't have to program everything to graph out data, or someone's made it so you can make a
+    webpage quickly.
+
+    These libraries can be used by
+        1. Downloading them using pip or pypi
+            * This is done in your ide and clicking on the terminal tab at the bottom.
+            * Usually this command follows the for
+                pip install 'library_name'
+        2. Added them to your python file.
+            Simply declare it at the beginning of your file doing
+            import "library_name"
+            or if you want to import just one thing from the library use from
+            from math import square_root
+
+        Note: There are a lot of libraries that come standard with python, you still need to import those at
+        the start of your python file. Some important ones are:
+
+            * JSON (A way to convey data between programs)
+            * MATH (Has various things such as square root, PI, and probably sin/cos stuff
+            * PANDAS (Not standard, but a great way to hold data. It's like a spreadsheet with columns. no visual editing these)
+            * REQUESTS (Allows you to make http requests such as get, post)
+            * DATETIME (A class for representing time)
+

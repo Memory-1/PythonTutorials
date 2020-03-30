@@ -1,0 +1,8 @@
+Iterate: To go through each item in a collection.
+IDE: Integrated development environment - It's a nice editor for programming. Think of microsoft word for programmers.
+    Pycharm is my favorite for python.
+String: A word recognized by the computer
+Function: Code which can be re-used in different settings.
+    This is used to avoid having to retype your code.
+    Also, it's allows you to split up your project into chunks
+    (Typically it's a good idea to make your function only work on one part of your project)

@@ -1,0 +1,26 @@
+What Is Coding?
+
+I think of coding as writing an instruction manual for the computer to complete a certain task.
+If you have ever read through (well-written) instructions, then you knew exactly what you needed to do at each step.
+The same goes for coding!
+
+One key difference though is that computers don't have common sense. It doesn't know what you were trying to imply if
+you don't specify it precisely. That is one challenge that arrives with coding is being able to think sequentially through
+each step of task precisely. Rest assured though, this is a skill and I believe any person can acquire a skill through
+practice and diligence.
+
+/*
+One example of how might one think while coding is illustrated through a question and answer:
+How would you make ramen on the stove?
+    1. The simple answer would be: I boil water and then put the noodles in and then wait until they're soft
+    then eat them.
+
+        But if you told this to a computer then how would it know where to get the water? What temperature should the
+        stove-top be set to? How long to cook them?
+
+    2. A more exact way would be: Fill pot with water. Set on stove. Set stove to medium temperature. If starts to boil
+    add noodles. If the noodles are soft, remove pot from heat. Get bowl. Pour noodles from bowl.
+*/
+
+Basically a rule of thumb would be to try to split up hard complex tasks into smaller, simpler tasks. If you can do that
+then you'll be able to piece them together and get a real nice results. :)
