@@ -18,7 +18,7 @@ dot accessing:
         We could call a private method yawn()
         so person.yawn() will cause the person to yawn.
 
-classes:
+Classes:
     A class is a representation of some object. You could think of any object and think of what can be used
     to describe it. For example,
 
@@ -58,3 +58,18 @@ Libraries:
             * REQUESTS (Allows you to make http requests such as get, post)
             * DATETIME (A class for representing time)
 
+Variables:
+    Variables might give some of you flashbacks to middle school algebra where you had to solve for x.
+    Simply put, variables can be used to hold something else: numbers, words, or many other things.
+
+    Variable names can be anything (except for starting with numbers)
+
+    Variables can be called as much as you wish, they can be re-assigned over and over again. Some examples of how
+    variables might be used:
+
+        * a = 1 + 2
+        * b = a - 5
+        * a = a + 2
+        * c = a * b
+        * Name = "Bob"
+        * Price = 1.50

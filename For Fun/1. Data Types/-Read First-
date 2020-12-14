@@ -1,7 +1,14 @@
-Suggested Reading order:
-1. Numbers
-2. Strings
-3. Collections
-    3a. Lists
-    3b. Tuples
-    3c. Dictionaries
+Data types are different ways that the computer represents information. Some data types are more useful that others
+depending on the situation. For example, it's a lot better to represent prices for an object with numbers rather
+than words. ex) $12.50 is better than twelve dollars and fifty cents.
+
+This section will explain what those different representations are and some of their uses.
+
+Suggested Reading order for this folder:
+1. Strings
+2. Numbers
+3. Bools
+4. Collections
+    4a. Lists
+    4b. Tuples
+    4c. Dictionaries
