@@ -29,11 +29,21 @@ Once Pycharm is up. Click open and and select the Tutorial folder. You're now se
 
 ### Pycharm Explanations 
 
-![Starting Screen]("./pictures/opening_screen.png")
+This should be the starting screen. You can see there's a tab of the far left side that says "project".
+Click on that to see all of your files
+![Starting Screen](./pictures/opening_screen.png)
 
-![Right Click Options]("./pictures/rightclick_option.png")
+When you right click on a python file (a file with the .py extension), this is what you'll see. 
+One of the most important options of this is the 'run "Filename"' option with the green arrow. 
+This is how you'll run a program. 
 
-![General Screen]("./pictures/general_screen.png")
+Most other options aren't important for now, but you may find some other ones useful later such as the debug option.
+![Right Click Options](./pictures/rightclick_option.png)
+
+This is the general screen you'll see after you've gotten started. I want to point out that you can have 
+multiple files open at the same time. These will show up at the top. If you want to switch to another open file, 
+just click on the name of the file and it will switch over to it. 
+![General Screen](./pictures/general_screen.png)
 
 
 ## Background
