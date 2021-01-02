@@ -14,8 +14,10 @@ print("Please enter your items or press enter if list is done")
 while (keep_going == True):
     temp = input('Item: ') # This will just display Item: , but it won't save "Item: " to the temp variable.
     if temp == "":
+        print('delete this line')
         # TODO: What to do if the item is empty ("")
     else:
+        print('delete this line')
         # TODO: Add an item to a list
 
 # TODO: Print the list
