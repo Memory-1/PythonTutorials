@@ -1,0 +1,18 @@
+Hey there! Thank you for downloading this tutorial. In this tutorial I'm going to try to explain these subjects as
+clearly and simply as I can. I recognize that programming can be daunting and overwhelming, so I'm going to try to
+explain these topics using my experience of what has and hasn't worked.
+
+The structure which I plan on taking this tutorial will be to explain the subject, provide some examples, then
+suggest a project which you can put your new knowledge to the test. I will include some common problems that you may
+run into during development that will help you. If these suggested fixes don't help, I would highly suggest doing
+a google search with the error.
+
+Basically, there will be plenty of examples that I suggest you go through, and run. Then you can use those to try
+one of the projects in the project folder.
+
+--TODO: Add some info about how to navigate through Pycharm.
+
+In this first folder, I will help you get familiar with running a program, some important commands that will help you
+in development.
+
+Go to 'hello world.py' to try out your first command.

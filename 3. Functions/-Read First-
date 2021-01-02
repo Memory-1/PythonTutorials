@@ -1,0 +1,7 @@
+Functions: Functions are one of the most important and powerful aspects of programming. Often time you will write
+code and need to use it multiple times. Functions allow you to re-use code over and over. This will not only make
+your program cleaner, it will make it: short, more organized, more readable, and easier to fix.
+
+Functions take input and then produce some output. I will note that functions don't necessarily have to have an input
+nor an output, but more than likely they will. In this section I will go over the format of making a function, how to
+use a function, and some general tips that you should use that will make your life easier.
