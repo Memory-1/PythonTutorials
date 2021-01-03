@@ -84,4 +84,4 @@ what didn't.
 4. Others things that are important
 
 
-Finally, please do not re-upload, sell, or distribute this tutorial without my permission. I claim all the rights to this content.
+**Finally, please do not re-upload, sell, or distribute this tutorial without my permission. I claim all the rights to this content.**
