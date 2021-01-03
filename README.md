@@ -83,5 +83,6 @@ what didn't.
     * Best practices
 4. Others things that are important
 
+____
 
 **Finally, please do not re-upload, sell, or distribute this tutorial without my permission. I claim all the rights to this content.**
