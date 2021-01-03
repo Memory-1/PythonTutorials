@@ -1,5 +1,17 @@
-# TODO: Add some explanation on what input is.
-# TODO: Add some explanation and context as to what this project is.
+"""
+Tip Calculator
+
+In this project you will make a simple tip calculator. The result should be the bill total + the tip.
+
+It will take two inputs from the user. I use input() which will prompt you to enter something in.
+
+Take those two inputs. Divide the percentage by 100 to get a decimal number and then
+
+This project will help you get familiar with numbers - both floats and integer number types.
+You will be using multiplication (*), division (/), and addition (+). There are examples for these in the examples
+folder
+"""
+
 # Remember - We talked about numbers and it's methods
 
 price = input("Bill total?")

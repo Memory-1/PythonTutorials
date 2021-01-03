@@ -1,0 +1,68 @@
+Well, here you are. We've done data types, logic and loops, and lastly functions. The big question is, what's next?
+This was is about the extent of what I've had planned. I hope that you feel like you now have the tools to
+be able to start learning more on your own; Or, that you feel that you can start creating what you want!
+
+There are many different things to learn and it all depends on you. I will list some different things and I'll
+leave it up to you.
+
+Data Structures - Now there are more ways of representing data besides strings, or numbers, or lists. Some of these
+might include a tree or a linked list. These different data structures have some incredible application for things
+such as sorting or looking for something to name a couple.
+
+    * Queues
+    * Linked List
+    * Trees
+    * Graphs
+    * Hash Maps
+
+Recursion - This is calling a function inside of itself. This can be interesting once you get your head wrapped
+around the principle. Basically you will have some base case and every time the function calls itself it
+gets a step closer to the base case. I will make an example of recursion in this folder for your benefit.
+
+Requests - This is how your browser communicates with websites. They make a network request and the website returns
+what is request. One project that I mentioned that I did in the tips was a NASA image of the day getter. This
+used requests.
+
+Another part of requests that goes hand-in-hand are API's. This is how a website defines what a user can access.
+
+Packages/Libraries - These are called different things depending on what programming language that you're
+using. In python, they're called libraries. A library is some code which someone else has made which will make
+your life much easier. People have made libraries for:
+
+    Whatever is in [ ] are the names of the libraries for that thing.
+
+    * Making Video games [pygame]
+    * Network Request [requests]
+    * Making really nice graphs/data visualization [matplotlib, plotly]
+    * Machine learning
+    * Making your own api
+    * Doing really impressive data organization (Like excel sheets in a way) [pandas]
+
+Classes - Classes are a way of describing one big thing. The example I like to use is a car. If you think of a car
+it has certain properties: The color, make, model, etc... Then a car can do certain things such as: turn on,
+accelerate, use blinkers, use wipers, etc... This is basically what a class in coding is. A way of making an
+object that has certain properties and functions. I will have an example of what a class is in this folder
+
+Algorithms - I think it's important to have some understanding of different algorithms that exist in coding. These
+algorithms are basically rules for solving a certain problem most efficiently.
+
+    Some different category for algorithms are:
+
+    * Sorting algorithms:
+        * Quick sort
+        * Selection sort
+        * Merge Sort
+
+    * Searching Algorithms:
+        * Binary Search (I really like the concept behind this one!)
+        * Breadth first search
+        * Depth first
+
+
+
+Honestly, these are all important topics in computer science. I feel like knowledge of these will help you on
+your journey. Even if you arent always using the topics in dsecribed above, they will help you think of things in new
+ways.
+
+Finally, I appreciate you! I believe in you! As I've said before coding is about gaining scar tissue.
+Thank you for downloading my tutorial!
